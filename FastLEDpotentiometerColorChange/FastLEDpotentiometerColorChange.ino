@@ -1,3 +1,6 @@
+/* based on the FastLED-tutorials of https://github.com/FastLED/FastLED. Many thanks, awesome stuff :)
+
+
  #include <FastLED.h>
     #define NUM_LEDS 64
     #define DATA_PIN 6
